@@ -10,6 +10,7 @@ public class DemoApplication {
 		System.out.println("mater change1 at github web");
 		System.out.println("hotfix change1 master");
 		System.out.println("hotfix change2");
+        System.out.println("master change4");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
