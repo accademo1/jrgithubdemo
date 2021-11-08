@@ -10,5 +10,4 @@ public class DemoApplication {
 		System.out.println("hotfix change1");
 		SpringApplication.run(DemoApplication.class, args);
 	}
-
 }
