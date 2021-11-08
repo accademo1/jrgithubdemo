@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("mater change1");
+		System.out.println("mater change1 at github web");
 		System.out.println("hotfix change1 master");
 		System.out.println("hotfix change2");
 		SpringApplication.run(DemoApplication.class, args);
